@@ -1,0 +1,19 @@
+    body{
+        width: 21cm;
+        height: 29.7cm;
+        margin: 30mm 45mm 30mm 45mm; 
+    }
+
+    h1 {
+        font-weight: bold;
+        color: blue;
+    }
+
+    h2 {
+        font-style: italic;
+        color: blueviolet;
+    }
+
+    h3 {
+        color: green;
+    }
